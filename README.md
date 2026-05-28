@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 ## 💫 About Me
-🚀 **Python Backend Developer | Data Engineering and Analytics**
+🚀 **Python Backend Developer | Data | Analytics**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dipanjandeb)
 ![GitHub followers](https://img.shields.io/github/followers/dipanjandeb)
