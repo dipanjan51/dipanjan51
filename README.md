@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dipanjandeb)
 ![GitHub followers](https://img.shields.io/github/followers/dipanjandeb)
-![GitHub stars](https://img.shields.io/github/stars/dipanjandeb)
+
 ---
 
 ## 🧠 What I Do
